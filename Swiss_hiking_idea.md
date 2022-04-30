@@ -10,6 +10,7 @@
 - [日程](#日程)
 - [ハイキングコース](#ハイキングコース)
 - [選定コース](#選定コース)
+- [標高情報](#標高情報)
 - [宿泊施設情報](#宿泊施設情報)
 - [予算](#予算)
 - [GPX](#GPX)
@@ -205,6 +206,14 @@ Bunderchrinde Pass to marvelには印象的な岩や地層があり、別の風�
 1. Kanderstegを散策、朝・昼ゴハンなど
 2. 12時頃、Kanderstegを出発
 3. 18時頃、Vaihingenに到着
+
+<a id="標高情報"></a>
+## 標高情報
+
+Stage11-13の標高情報を可視化した。
+[brouter web](https://brouter.damsy.net/latest/#map=11/46.6332/7.8422/standard,route-quality&profile=hiking-beta)を使用し、ルート作成した。実際のSACで見るルートとは微妙に違うが、誤差なので無視する。
+
+![標高情報](Elevation_chart_S11-S13.png)
 
 <a id="宿泊施設情報"></a>
 ## 宿泊施設情報
