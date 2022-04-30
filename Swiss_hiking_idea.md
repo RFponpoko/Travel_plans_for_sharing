@@ -15,6 +15,7 @@
 - [GPX](#GPX)
 - [コロナ規制](#コロナ規制)
 - [TODO](#TODO)
+- [ハイキングレベル情報](#ハイキングレベル情報)
 - [参考リンク](#参考リンク)
 
 <a id="やりたい事"></a>
@@ -60,14 +61,14 @@ Via Alpina Stage: 11-13/20の3ステージを選択。独断と偏見。
 
 一応参考にしたのはこのサイトで、20ステージの中で3連続ハイライトコースとされている箇所を考えている。
 が、stage14が岩場だけで面白みに欠ける気がしないでもない。そしてStage11は、Eigarのまさに南側を歩くコースなので、王道のような気もする。
-[Link](https://www.myswitzerland.com/en-us/experiences/summer-autumn/hiking/via-alpina/detox-venues/)
+[Highlights on the Via Alpina](https://www.myswitzerland.com/en-us/experiences/summer-autumn/hiking/via-alpina/detox-venues/)
 
-更に、[参考リンク](#参考リンク)の厳選32コースの中にstage13が組み込まれていたので、それを含んだものが良いと判断。
+更に、[参考リンク](#参考リンク)の厳選32コースの中にstage13が組み込まれていたので、それを含んだものが良いと判断した。
 
 最終的には決めていないが、下記の2つが有力候補。
 
-- Stage11-13
-- Stage12-14
+1. Stage11-13
+2. Stage12-14
 
 他の細かいが選定理由として挙げられるモノは、
 
@@ -95,27 +96,27 @@ Via Alpina Stage: 11-13/20の3ステージを選択。独断と偏見。
 Interlakenで宿泊してもいいし、ハイキングコースの手前まで行ってから宿泊しても良い。
 が、ハイキングを主とするならばGrindelwaldで宿泊して、準備を整えて行くのが良いだろう。なので、初日は移動日とする。
 
-1. Interlaken Ost
-2. Grindelwald
+8. Interlaken Ost
+9. Grindelwald
 
 この間は、30分程度を初日の移動に入れて、次のようなプランを提案する。
 
-- 午前中（8時）に出発
-- ちょっと遅い昼ゴハンなどをInterlakenで食べ、そのまま観光
-- 19時頃、Grindelwaldへ出発する
-- 翌朝からGrindelwaldからハイキングコースへ
+1. 午前中（8時）にVaihingenを出発
+2. ちょっと遅い昼ゴハンなどをInterlakenで食べ観光
+3. 19時頃、Grindelwaldへ出発
+4. 翌朝からGrindelwaldからハイキングコースへ
 
 ### Stage: 11
 
 ちょっと大きめの町Grindelwaldから出発し、歯車式鉄道の音を遠くに聞きながら、Eigarのまさに南側を歩く。
 観光地化されたコースで、砂利道などがメインになりそう。
 
-[Link](https://www.myswitzerland.com/en-ch/experiences/route/via-alpina-11/)
+[Stage11](https://www.myswitzerland.com/en-ch/experiences/route/via-alpina-11/)
 
 - 出発: Grindelwald
 - 終点: Lauterbrunnen
 - 距離: 20km
-- 時間: 6h 40min
+- 時間: 6h40min
 - 登り: 1200m
 - 下り: 1400m
 
@@ -127,7 +128,7 @@ Interlakenで宿泊してもいいし、ハイキングコースの手前まで�
 
 Eigarを南東に眺めつつ出発。小高い丘、そして谷間をあるく。ロードオブザリングのような風景。ここは、緑豊かな草原が広がる。
 
-[Link](https://www.myswitzerland.com/en-ch/experiences/route/via-alpina-12/)
+[Stage12](https://www.myswitzerland.com/en-ch/experiences/route/via-alpina-12/)
 
 - 出発: Lauterbrunnen
 - 終点: Griesalp
@@ -147,12 +148,12 @@ Eigarを南東に眺めつつ出発。小高い丘、そして谷間をあるく
 
 ハイキングの後、湖に到着したら、冷たい水に足を浸すかのがオススメのアクティビティだそうだ。
 
-[Link](https://www.myswitzerland.com/en-ch/experiences/route/via-alpina-13/)
+[Stage13](https://www.myswitzerland.com/en-ch/experiences/route/via-alpina-13/)
 
 - 出発: Griesalp
 - 終点: Kandersteg
 - 距離: 17km
-- 時間: 7h 15min
+- 時間: 7h15min
 - 登り: 1450m
 - 下り: 1700m
 
@@ -166,12 +167,12 @@ Eigarを南東に眺めつつ出発。小高い丘、そして谷間をあるく
 Bunderchrinde Pass to marvelには印象的な岩や地層があり、別の風景が見える。
 運が良ければ、アイベックスに出会えるかもとのこと。アイベックスは、ヤギの一種だと思う。
 
-[Link](https://www.myswitzerland.com/en-ch/experiences/route/via-alpina-14/)
+[Stage14](https://www.myswitzerland.com/en-ch/experiences/route/via-alpina-14/)
 
 - 出発: Kandersteg
 - 終点: Adelboden
 - 距離: 16km
-- 時間: 6h 50min
+- 時間: 6h50min
 - 登り: 1450m
 - 下り: 1250m
 
@@ -191,12 +192,22 @@ Bunderchrinde Pass to marvelには印象的な岩や地層があり、別の風�
 6. Herrenberg
 7. Vaihingen
 
-昼ゴハンまで、Kanderstegで食べてから出発。夕方に帰宅する方針。
+これを踏まえた上で次のような帰宅プランを提案する。
+
+1. Kanderstegを散策、朝・昼ゴハンなど
+2. 12時頃、Kanderstegを出発
+3. 18時頃、Vaihingenに到着
 
 <a id="宿泊施設情報"></a>
 ## 宿泊施設情報
 
 色々あるのは見かけたが、具体的にどことは決めていない。TODO
+
+上記と同様Stage11-13を主軸として調査する。一応Stage14用の宿泊施設も探し、記録を残す事とする。
+
+### Start Point
+
+### At the end of Stage 11
 
 ### At the end of Stage 12
 
@@ -209,7 +220,7 @@ Bunderchrinde Pass to marvelには印象的な岩や地層があり、別の風�
 <a id="予算"></a>
 ## 予算
 
-ざっくり見積もり:950 euro
+ざっくり見積もり:950 euro（13万程度）
 
 - 往路電車: 50 euro
 - 初日ホテル: 100 euro
@@ -225,7 +236,7 @@ Bunderchrinde Pass to marvelには印象的な岩や地層があり、別の風�
 <a id="GPX"></a>
 ## GPX
 
-下記のアプリで作成予定。
+下記のアプリで作成予定。TODO
 
 [SwitzerlandMobility App](https://www.schweizmobil.ch/en/switzerlandmobility-app-e.html)
 
@@ -234,11 +245,13 @@ SwitzerlandMobility App Plusは課金しないと使えないらしい。年間3
 課金が必要ならば実行しよう。やりたいのは、このアプリで提案しているルートをGPXで吐き出したいだけ。
 そしてGPXは日付ごとに別ファイルにしたいと思っている。
 
-### At the end of Stage 12
+### Stage 11
 
-### At the end of Stage 13
+### Stage 12
 
-### At the end of Stage 14
+### Stage 13
+
+### Stage 14
 
 <a id="コロナ規制"></a>
 ## コロナ規制
@@ -259,6 +272,33 @@ Swissはほぼ規制が無いはず。TODO:あとで確認する。
 - 装備品アップデート
 - 荷造り
 
+
+<a id="ハイキングレベル情報"></a>
+## ハイキングレベル情報
+
+スイスでは、ハイキングのコースを3種類の色で区分けしている。これによりハイカーは自分の歩いているルートのレベルを把握することが出来る。
+
+- recreational (yellow)
+- mountain (red and white)
+- alpine (blue and white). 
+
+しかしこれにはサブレベルという物があるそうだ。これを踏まえて頭に入れるべき情報を整理してみよう。
+なおこれを定義しているのは、 [Swiss Alpine Club](https://www.sac-cas.ch/en/)（略称SAC）だそうだ。
+
+大切なのは、路上にあるサインの色と岩などにペイントされている色の組み合わせのようだ。
+我々はT1以内に収まるコースにしている。なんか青や赤のコースに迷い込まないように注意しよう。
+
+### Hiking trails
+
+- T1: Recreational trails, hiking (yellow)
+- T2: Mountain trails, mountain hiking (yellow with red and white points)
+- T3: Mountain trails, demanding mountain hiking (yellow with red and white points)
+- T4: Alpine routes, alpine hiking (blue with blue and white points)
+- T5: Alpine routes, demanding alpine hiking (blue with blue and white points)
+- T6: Alpine routes, difficult alpine hiking (blue with blue and white points)
+
+[参考サイト](https://www.swissmountainfun.ch/switzerland-hiking-trails-guide/)
+
 <a id="参考リンク"></a>
 ## 参考リンク
 
@@ -276,6 +316,3 @@ https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/
 
 ネットユーザーが構築しているハイキングサイト
 https://www.hikr.org/
-
-スイスのハイキングコースはレベル分けされている
-https://www.swissmountainfun.ch/switzerland-hiking-trails-guide/
