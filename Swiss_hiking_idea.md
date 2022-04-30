@@ -303,7 +303,9 @@ TODO:今回はbrouter webを使用して生成したが元々自転車用のGPX�
 <a id="コロナ規制"></a>
 ## コロナ規制
 
-Swissはほぼ規制が無いはず。TODO:規制確認
+Swissはほぼ規制が無い事を確認。細かい情報は次のファイルを参照
+
+[コロナ情報](2022_May_Corona_info_Swiss.md)
 
 <a id="TODO-LIST"></a>
 ## TODO-LIST
