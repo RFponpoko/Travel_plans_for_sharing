@@ -302,20 +302,14 @@ Swissはほぼ規制が無いはず。TODO:あとで確認する。
 <a id="参考リンク"></a>
 ## 参考リンク
 
-スイスのハイキングコースを整理しているサイト(メインで使用)
-https://www.schweizmobil.ch/en/summer.html
+今回のルートstage11-13(+14)を歩いている動画。これがイメージしやすい。
 
-その中からオススメコースを厳選しているサイト32コース（スイス政府観光局監修）
-https://www.myswitzerland.com/en-ch/experiences/summer-autumn/hiking/32-most-enjoyable-hikes-search/
-
-今回のルートstage11-13(+14)を歩いている動画
 [![](https://img.youtube.com/vi/AUmaEILRSjI/0.jpg)](https://www.youtube.com/watch?v=AUmaEILRSjI)
 
-スイスのハイキングコースを整理2
-https://www.schweizer-wanderwege.ch/de/wandern/alle-wandervorschlaege
+その他のリンク集
 
-スイスのハイキングコースを整理3
-https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/
-
-ネットユーザーが構築しているハイキングサイト
-https://www.hikr.org/
+- [主に使用したスイスのハイキングコースを整理しているサイト](https://www.schweizmobil.ch/en/summer.html)
+- [厳選32コース（スイス政府観光局）](https://www.myswitzerland.com/en-ch/experiences/summer-autumn/hiking/32-most-enjoyable-hikes-search/)
+- [スイスのハイキングコース(Swiss Hiking Association)](https://www.schweizer-wanderwege.ch/de/wandern/alle-wandervorschlaege)
+- [スイスのハイキングコース(SAC)](https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/)
+- [ネットユーザーが構築しているハイキングサイト](https://www.hikr.org/)
