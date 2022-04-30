@@ -14,7 +14,7 @@
 - [予算](#予算)
 - [GPX](#GPX)
 - [コロナ規制](#コロナ規制)
-- [TODO](#TODO)
+- [TODO-LIST](#TODO-LIST)
 - [ハイキングレベル情報](#ハイキングレベル情報)
 - [参考リンク](#参考リンク)
 
@@ -46,6 +46,14 @@ June 2022
 で、アイディアとしては25日から29日の4泊5日コース。
 日付はフレキシブル。個人的には5泊6日にして、Stage11-14を走破するのが良いかなとは思っているが、今回は4泊と決める。
 詳細は参加者と要調整事項。
+
+- 出発: 6月25日(土)
+- 帰宅: 6月29日(水)
+
+- 25日(土): Grindelwald泊
+- 26日(日): Lauterbrunnen泊
+- 27日(月): Griesalp泊
+- 28日(火): Kandersteg泊
 
 <a id="ハイキングコース"></a>
 ## ハイキングコース
@@ -201,22 +209,22 @@ Bunderchrinde Pass to marvelには印象的な岩や地層があり、別の風�
 <a id="宿泊施設情報"></a>
 ## 宿泊施設情報
 
-色々あるのは見かけたが、具体的にどことは決めていない。TODO
+色々あるのは見かけたが、具体的にどことは決めていない。TODO:決める
 
 上記と同様Stage11-13を主軸として調査する。一応Stage14用の宿泊施設も探し、記録を残す事とする。
 
-### Start Point
+### Start Point: Grindelwald泊
 
 6月25日(土)で検索すると、ホテルがほぼ残っていない。と言うか土日だとかなり選択肢が壊滅している。
-平日はまだ余裕はありそうだが、決行の如何にかかわらずホテルは抑えよう。TODO早めのリストアップと予約
+平日はまだ余裕はありそうだが、決行の如何にかかわらずホテルは抑えよう。TODO:早めのリストアップと予約
 
-### At the end of Stage 11
+### Stage11: Lauterbrunnen泊
 
 選択肢は多少ありそう。とりあえず適当に。一人80ユーロ程度。
 
 [Chalet Rosa B&B](http://chaletrosabb.com/)
 
-### At the end of Stage 12
+### Stage12: Griesalp泊
 
 選択肢はそこまで多くなさそう。オススメに上がってくるホテルの一つが取れればOKと思う。
 例えば次のホテル。一泊130CHFが最低でもかかりそう。
@@ -226,7 +234,7 @@ Bunderchrinde Pass to marvelには印象的な岩や地層があり、別の風�
 ヒュッテに泊まりたいなら、[Rotstockhütte](https://www.rotstockhuette.ch/index.php/en/)もある。
 ただここは宿泊ではなく、休憩ポイントとしても良い。
 
-### At the end of Stage 13
+### Stage13: Kandersteg泊
 
 これは道中なのだが、[Blümlisalphütte](https://www.myswitzerland.com/en-ch/accommodations/bluemlisalphuette-sac/)というヒュッテが良いらしい。
 ここはコースの途中で宿泊して、帰宅までにもうひと歩きを要するが、大自然の中で泊まるアイディアとしては良いなと思う。
@@ -237,7 +245,7 @@ Hotel zur Post, bed & breakfastがとりあえず選択肢。この地域は金�
 
 [Hotel zur Post, bed & breakfast](https://www.swissqualityhotels.com/en/hotels/switzerland/Kandersteg/Bernerhof/index.aspx)
 
-### At the end of Stage 14
+### Stage14: Adelboden
 
 一応ご参考まで。
 
@@ -246,15 +254,15 @@ Hotel zur Post, bed & breakfastがとりあえず選択肢。この地域は金�
 <a id="予算"></a>
 ## 予算
 
-ざっくり見積もり:950 euro（13万程度）
+ざっくり見積もり: 940 euro(13万程度)
 
-- 往路電車: 50 euro
-- 初日ホテル: 100 euro
-- stage11 ホテル: 100 euro
-- stage12 ホテル: 100 euro
-- stage13 ホテル: 100 euro
-- 復路電車: 50 euro
-- 食事代: 1食(10euro)*3*3*5=450 euro
+- 往路電車: 60 euro
+- 初日ホテル: 130 euro
+- stage11 ホテル: 130 euro
+- stage12 ホテル: 130 euro
+- stage13 ホテル: 130 euro
+- 復路電車: 60 euro
+- 食事代: 1食(20euro)x3x5=300 euro
 
 ワタナベさんが2022年4月に4泊5日でスイスに旅行したらしい。
 その情報によると17万くらいと言っていたので、この概算はそこそこ良い線だろう。
@@ -262,7 +270,7 @@ Hotel zur Post, bed & breakfastがとりあえず選択肢。この地域は金�
 <a id="GPX"></a>
 ## GPX
 
-下記のアプリで作成予定。TODO
+下記のアプリで作成予定。TODO:アプリの登録
 
 [SwitzerlandMobility App](https://www.schweizmobil.ch/en/switzerlandmobility-app-e.html)
 
@@ -282,10 +290,10 @@ SwitzerlandMobility App Plusは課金しないと使えないらしい。年間3
 <a id="コロナ規制"></a>
 ## コロナ規制
 
-Swissはほぼ規制が無いはず。TODO:あとで確認する。
+Swissはほぼ規制が無いはず。TODO:規制確認
 
-<a id="TODO"></a>
-## TODO
+<a id="TODO-LIST"></a>
+## TODO-LIST
 
 - 参加者確認
 - 日程調整
