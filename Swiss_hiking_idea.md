@@ -308,6 +308,9 @@ https://www.schweizmobil.ch/en/summer.html
 その中からオススメコースを厳選しているサイト32コース（スイス政府観光局監修）
 https://www.myswitzerland.com/en-ch/experiences/summer-autumn/hiking/32-most-enjoyable-hikes-search/
 
+今回のルートstage11-13(+14)を歩いている動画
+![](http://img.youtube.com/vi/v=AUmaEILRSjI/0.jpg)](http://www.youtube.com/watch?v=AUmaEILRSjI)
+
 スイスのハイキングコースを整理2
 https://www.schweizer-wanderwege.ch/de/wandern/alle-wandervorschlaege
 
