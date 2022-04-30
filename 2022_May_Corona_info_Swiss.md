@@ -8,13 +8,13 @@
 
 TODO:帰国したら、記述しよう。
 
-## travel check
+## Travel check
 
-次のサイトで入国できるかか確認可能。
+次のサイトでスイスへ入国できるかか、条件ごとに確認することが可能。
 
 [入国条件確認](https://travelcheck.admin.ch/home)
 
-条件
+（私の）条件
 
 - Entering Swiss
 - a residence permit issued by another Schengen state
@@ -33,12 +33,13 @@ TODO:帰国したら、記述しよう。
 
 [ワクパス](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en)
 
-これはワクチンパスポートと同義。その登録方法。有効なワクチン。有効期限などの記載が、EUのページに書いてある。
-2022年5月1日現在、旅行に際して不要。
+これは、ドイツで言っているワクチンパスポートと同義。
+その登録方法、有効なワクチン、その有効期限などの記載がEUのページ（上記のリンク）に書いてある。
+2022年5月1日現在、スイス旅行に際して不要となっている。
 
 ## Swissのコロナ状況
 
-スイスの当局によれば、現状すべてのコロナ関連の規制が撤廃されたようだ。
+スイスの当局によれば、現状すべてのコロナ関連の規制が撤廃されたようだ。またコロナの陽性者も減少傾向とのこと。
 
 > As of Friday, April 1, 2022, the last measures in the Covid-19 Ordinance for Special Situations will be lifted: the obligation to isolate infected people and the obligation to wear masks in public transport and in health facilities.
 
