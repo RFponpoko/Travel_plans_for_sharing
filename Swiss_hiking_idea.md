@@ -207,15 +207,41 @@ Bunderchrinde Pass to marvelには印象的な岩や地層があり、別の風�
 
 ### Start Point
 
+6月25日(土)で検索すると、ホテルがほぼ残っていない。と言うか土日だとかなり選択肢が壊滅している。
+平日はまだ余裕はありそうだが、決行の如何にかかわらずホテルは抑えよう。TODO早めのリストアップと予約
+
 ### At the end of Stage 11
+
+選択肢は多少ありそう。とりあえず適当に。一人80ユーロ程度。
+
+[Chalet Rosa B&B](http://chaletrosabb.com/)
 
 ### At the end of Stage 12
 
-[Rotstockhütte](https://www.rotstockhuette.ch/index.php/en/)
+選択肢はそこまで多くなさそう。オススメに上がってくるホテルの一つが取れればOKと思う。
+例えば次のホテル。一泊130CHFが最低でもかかりそう。
+
+[Griesalp Hotels](https://www.myswitzerland.com/en-ch/accommodations/griesalp-hotels/)
+
+ヒュッテに泊まりたいなら、[Rotstockhütte](https://www.rotstockhuette.ch/index.php/en/)もある。
+ただここは宿泊ではなく、休憩ポイントとしても良い。
 
 ### At the end of Stage 13
 
+これは道中なのだが、[Blümlisalphütte](https://www.myswitzerland.com/en-ch/accommodations/bluemlisalphuette-sac/)というヒュッテが良いらしい。
+ここはコースの途中で宿泊して、帰宅までにもうひと歩きを要するが、大自然の中で泊まるアイディアとしては良いなと思う。
+
+Hotel zur Post, bed & breakfastがとりあえず選択肢。この地域は金額がちょっと高い気がする。
+電車でのアクセスも可能と言うもあるだろうし、素晴らしいと言われているStage13に直結している。
+ここのホテルは最優先で抑えよう。
+
+[Hotel zur Post, bed & breakfast](https://www.swissqualityhotels.com/en/hotels/switzerland/Kandersteg/Bernerhof/index.aspx)
+
 ### At the end of Stage 14
+
+一応ご参考まで。
+
+[Hotel Steinmattli](https://www.hotel-steinmattli.ch/en/main-page/)
 
 <a id="予算"></a>
 ## 予算
