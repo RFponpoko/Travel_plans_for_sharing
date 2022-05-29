@@ -171,7 +171,7 @@ ALSAは本数が少なく、価格が安い。PESAは本数が多いが価格が
 
 つまり、PESAでは空港の名前がスペイン語で書いてあるので、どこにあるかわかりにくいということだろう。
 
-![PESA_pic](PESA_bilbao.png)
+![PESA_pic](./Images/PESA_bilbao.png)
 
 <a id="雑多なメモ"></a>
 ## 雑多なメモ
